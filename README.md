@@ -7,3 +7,4 @@ def faixa_int(pergunta, minimo, maximo):
       print(f"Valor invalido, digite um valor entre {minimo} e {maximo}")
     else:
       return v
+      
